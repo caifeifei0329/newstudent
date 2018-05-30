@@ -1,0 +1,2 @@
+class TodoDb():
+    pass
